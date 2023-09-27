@@ -3,6 +3,6 @@
  */
 
 module.exports = {
-    testEnvironment: 'node',
-    roots: ['./__tests__'],
-  };
+  testEnvironment: 'node',
+  roots: ['./__tests__/src/'],
+};
